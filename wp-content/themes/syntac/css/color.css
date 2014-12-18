@@ -1,0 +1,15 @@
+
+/* Template: Syntac | Author: eriktailor | Version: 1.0 */
+/*--------------------------------------------------------------------- */
+
+/* All / Page Title */
+a,.page-title span,.social-networks a:hover i,.tweet a:hover,.twitter-sign i,.tweet span,.process-part .icon-box i,.filter .selected i, .filter .selected span,.portfolio-item span,.resume-content-box span,.contact-details i,.entry-title a,.menu li ul a
+:hover,.post-preview-content-box span,.post-preview-content-box h2 a:hover,.sidebar  .widget_tag_cloud .tagcloud a,.pagination span a:hover{color: #dd3c26;}
+
+.name-area h1,.menu .current-menu-item a,.profile-tabs .active,.portfolio-item:hover,.resume-icon-box,.skill-tip,.award-header ,.button-bar,#profile,#testimonials,#contact,.post-icon-box{background-color: #dd3c26;}
+.menu .current-menu-item a .bullet {border-top: 18px solid #dd3c26;}
+.button:hover {background: #F0F0F0; color: #dd3c26;}
+.overlay .bullet{border-bottom:12px solid #dd3c26;}
+.resume-bullet-right,.post-bullet-right{border-right:15px solid #dd3c26;}
+.resume-bullet-left{border-right:8px solid #dd3c26;}
+.resume-bullet-bottom{border-top:10px solid #dd3c26;}
